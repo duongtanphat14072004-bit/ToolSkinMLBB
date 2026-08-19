@@ -1,4 +1,5 @@
 [app]
+source.dir = .
 title = Skin Tool MLBB
 package.name = skintoolmlbb
 package.domain = org.test
