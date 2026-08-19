@@ -5,7 +5,7 @@ package.name = skintoolmlbb
 package.domain = org.test
 source.include_exts = py,png,jpg,kv,atlas,zip,bnk,unity3d,txt
 version = 1.0
-requirements = python3,kivy
+requirements = python3==3.11.7,kivy
 orientation = portrait
 fullscreen = 0
 android.presplash_color = #FFFFFF
